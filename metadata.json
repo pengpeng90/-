@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 3D Avatar Stylist",
+  "description": "A step-by-step 3D character dress-up application using Gemini 2.5 Flash Image to edit avatars based on user choices.",
+  "requestFramePermissions": []
+}
